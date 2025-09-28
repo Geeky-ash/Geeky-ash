@@ -9,7 +9,7 @@
 I'm a passionate developer and tech enthusiast from **India**, with a love for creating beautiful, functional, and user-centric web applications. My current focus is on building scalable solutions and contributing to innovative projects. I thrive in collaborative environments and am always eager to learn new technologies.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/img/coding.gif" alt="Coding GIF" width="400"/>
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coding GIF" width="400"/>
 </p>
 
 ---
