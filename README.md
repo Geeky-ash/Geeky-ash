@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ashirwad+Sharma+👋;A+Web+Developer+%26+Tech+Enthusiast!;Always+Building+%26+Learning...;Welcome+to+my+Profile!+✨" alt="Typing Animation" />
+  <img src="https://svg-typing-animation.netlify.app/api?lines=Hi%2C+I'm+Ashirwad+Sharma+👋;A+Web+Developer+%26+Tech+Enthusiast!;Always+Building+%26+Learning...;Welcome+to+my+Profile!+✨&font=Fira%20Code&size=30&duration=1000&color=007ACC" alt="Typing Animation" />
 </div>
 
 ---
@@ -9,7 +9,7 @@
 I'm a passionate developer and tech enthusiast from **India**, with a love for creating beautiful, functional, and user-centric web applications. My current focus is on building scalable solutions and contributing to innovative projects. I thrive in collaborative environments and am always eager to learn new technologies.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrMVKIKk9C/giphy.gif" alt="Coding GIF" width="400"/>
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/img/coding.gif" alt="Coding GIF" width="400"/>
 </p>
 
 ---
