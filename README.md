@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+[YOUR NAME]+👋;[YOUR FULL TITLE];Always+Building+%26+Learning...;Welcome+to+my+Profile!+✨" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ashirwad+Sharma+👋;A+Web+Developer+%26+Tech+Enthusiast!;Always+Building+%26+Learning...;Welcome+to+my+Profile!+✨" alt="Typing Animation" />
 </div>
 
 ---
 
 ### 👨‍💻 A Little About Me
 
-I'm a passionate developer and tech enthusiast from **the Netherlands**, with a love for creating beautiful, functional, and user-centric web applications. My current focus is on building scalable solutions and contributing to innovative projects. I thrive in collaborative environments and am always eager to learn new technologies.
+I'm a passionate developer and tech enthusiast from **India**, with a love for creating beautiful, functional, and user-centric web applications. My current focus is on building scalable solutions and contributing to innovative projects. I thrive in collaborative environments and am always eager to learn new technologies.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coding GIF" width="400"/>
+  <img src="https://media.giphy.com/media/LmNwrMVKIKk9C/giphy.gif" alt="Coding GIF" width="400"/>
 </p>
 
 ---
@@ -57,8 +57,8 @@ I'm a passionate developer and tech enthusiast from **the Netherlands**, with a 
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=tokyonight&hide_border=true" alt="Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Geeky-ash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Geeky-ash&theme=tokyonight&hide_border=true" alt="Streak Stats" width="48%" />
 </div>
 
 ---
@@ -77,5 +77,5 @@ I'm a passionate developer and tech enthusiast from **the Netherlands**, with a 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Geeky-ash&label=Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
