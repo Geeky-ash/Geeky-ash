@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://svg-typing-animation.netlify.app/api?lines=Hi%2C+I'm+Ashirwad+Sharma+👋;A+Web+Developer+%26+Tech+Enthusiast!;Always+Building+%26+Learning...;Welcome+to+my+Profile!+✨&font=Fira%20Code&size=30&duration=1000&color=007ACC" alt="Typing Animation" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&width=500&lines=Hi%2C+I'm+Ashirwad+Sharma+👋;FullStack+Developer;AI%2FML+Enthusiast;GSAP+Web+Animator)](https://git.io/typing-svg)
+
 </div>
 
 ---
