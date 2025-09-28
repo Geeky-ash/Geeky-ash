@@ -26,7 +26,7 @@ I'm a passionate developer and tech enthusiast from **India**, with a love for c
   <br><br>
   <strong>Backend & Database:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,php,laravel" />
   </a>
   <br><br>
   <strong>Tools & Platforms:</strong><br>
